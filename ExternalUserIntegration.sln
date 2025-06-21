@@ -1,0 +1,6 @@
+ExternalUserIntegration.sln
+
+ExternalUserIntegration 
+Class Library (models, client, services)
+ExternalUserIntegration.API   
+Web API (controller layer) 
